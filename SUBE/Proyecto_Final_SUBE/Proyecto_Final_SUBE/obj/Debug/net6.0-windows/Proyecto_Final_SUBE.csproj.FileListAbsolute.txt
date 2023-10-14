@@ -1,0 +1,159 @@
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.Form1.resources
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+E:\Federico\LABO2\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.Form1.resources
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.Form1.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.Form1.resources
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaRegistrarse.resources
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaUltimosViajes.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaRegistrarse.resources
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaUltimosViajes.resources
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaRegistrarse.resources
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaUltimosViajes.resources
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.PantallaLogin.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.PantallaLogin.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaRegistrarse.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaUltimosViajes.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.AssemblyReference.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\WindowsFormsApp1.PantallaLogin.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaPrincipal.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaRegistrarse.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.PantallaUltimosViajes.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.Properties.Resources.resources
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.GenerateResource.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfoInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.AssemblyInfo.cs
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CoreCompileInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\refint\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.exe
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.deps.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.runtimeconfig.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Proyecto_Final_SUBE.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.csproj.CopyComplete
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\Proyecto_Final_SUBE.genruntimeconfig.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Proyecto_Final_SUBE\obj\Debug\net6.0-windows\ref\Proyecto_Final_SUBE.dll

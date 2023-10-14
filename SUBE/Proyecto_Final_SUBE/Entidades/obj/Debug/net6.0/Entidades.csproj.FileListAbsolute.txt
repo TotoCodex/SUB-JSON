@@ -1,0 +1,67 @@
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\fedmartin\Desktop\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\fedmartin\Desktop\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+E:\Federico\Proyecto SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\tobia\Desktop\ProyectoSUBE REAL\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\tobia_xd43x45\OneDrive\Escritorio\SUBE\Proyecto_Final_SUBE\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
